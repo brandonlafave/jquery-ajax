@@ -1,0 +1,4 @@
+#photos li {
+  list-style-type: none;
+  padding: .5em 0em;
+}
